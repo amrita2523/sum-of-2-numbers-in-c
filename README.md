@@ -1,2 +1,10 @@
-# sum-of-2-numbers-in-c
-sum of 2 numbers in c
+#include<stdio.h>
+int main()
+{
+int num1,num2,sum;
+num1=10;
+num2=20;
+sum=num1+num2;
+printf(:%d+%d",num1,num2,sum);
+return 0;
+}
